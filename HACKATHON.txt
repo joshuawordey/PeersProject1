@@ -1,0 +1,32 @@
+		PYTHON PEERS HACKATHON INSTRUCTION FILE
+PROBLEM:
+Agyekum is a Geography teacher at Nandom Senior High School.
+He has intentions of compiling a questions and answers book
+for his students. The only problem he is faced with is the fact
+that he is always presented with two different files, one 
+containing the questions and the other one having the answers.
+So he manually transfers the answers on the answer file to the 
+questions on the question file by using a copy and paste method.
+He pastes the answers to each question right beneath it, hence
+ending up with one file containing questions and their corresponding
+answers.
+Even though he is able to achieve his goal, he has a really low 
+productivity curve and wishes this exercise could be automated
+for him.
+
+TO-DO:
+As a python developer, you will be presented with sample questions
+and answers files like the ones Agyekum works with. Your goal is to
+write a program that is able to match each question with its corresponding
+answer and present both questions and answers on the same file for Agyekum.
+
+RECOMMENDED:
+Not limiting your research scope, knowledge in python basics, especially
+Regex and file Handling might be helpful in solving this problem.  
+
+NOTE:
+You may make a few alterations to help with your work.
+But ensure that you do not alter the content of the questions
+or the order in which they are arranged.
+All changes made to the text files should be well documented and 
+sent along the submission files.
